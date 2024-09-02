@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://r4v3.party/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>support@r4v3.party (r4v3.party)</managingEditor>
     <webMaster>support@r4v3.party (r4v3.party)</webMaster>
     <lastBuildDate>Tue, 03 Sep 2024 01:58:57 +0300</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://r4v3.party/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Новый лендинг</title>
-      <link>https://example.org/posts/new-landing/</link>
+      <link>https://r4v3.party/posts/new-landing/</link>
       <pubDate>Tue, 03 Sep 2024 01:58:57 +0300</pubDate><author>support@r4v3.party (r4v3.party)</author>
-      <guid>https://example.org/posts/new-landing/</guid>
+      <guid>https://r4v3.party/posts/new-landing/</guid>
       <description>Перенёс лендинг на gohugo, а почему бы и нет?</description>
     </item>
   </channel>
